@@ -30,8 +30,7 @@ pip install -r requirements.txt
 python script.py -f <input_file>
 
 5. Replace <input_file> with the name or path of the text file you want to process.
-6. 
-7. The script will remove the duplicate lines and save the filtered content to the new filtered_<input_file> file.
+6. The script will remove the duplicate lines and save the filtered content to the new filtered_<input_file> file.
 
 
 
