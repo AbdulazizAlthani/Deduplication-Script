@@ -5,14 +5,18 @@ Efficient Duplicate Line Removal Script
 
 Key Features
 <span style="color:blue;">Duplicate Line Removal:</span> The script efficiently identifies and removes duplicate lines from your input text file, ensuring you have a clean, unique dataset.
+
 <span style="color:blue;">Automated Processing:</span> With just a few command-line arguments, you can kick-start the script and let it do the heavy lifting, freeing up your time for other tasks.
+
 <span style="color:blue;">Progress Monitoring:</span> The script includes a progress bar, keeping you informed about the processing status and the number of lines processed.
+
 <span style="color:blue;">Intuitive Interface:</span> The script comes with a user-friendly interface, including a banner and detailed instructions, making it easy for users of all skill levels to utilize.
+
 <span style="color:blue;">Customizable Output:</span> The processed data is saved to a new file with a "filtered_" prefix, allowing you to easily identify the filtered version of your input file.
+
 Applications
 <span style="color:green;">Data Cleaning and Preparation:</span> Prepare your data for further analysis or processing by removing duplicate lines, a common problem in various industries.
-<span style="color:green;">Search Engine Optimization:</span> Enhance the quality and uniqueness of your online content by running it through the script, improving the search engine performance of your website.
-<span style="color:green;">File Management Automation:</span> Streamline your file management operations by automating the removal of duplicate lines, saving time and ensuring data integrity.
+
 Getting Started
 Open a terminal or command prompt (cmd).
 Navigate to the directory where the script is located.
