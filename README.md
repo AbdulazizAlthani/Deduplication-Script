@@ -26,7 +26,7 @@ basic
 pip install -r requirements.txt
 ```
 
-4:Run the script by entering the following command:
+4. Run the script by entering the following command:
 python script.py -f <input_file>
 
 5. Replace <input_file> with the name or path of the text file you want to process.
